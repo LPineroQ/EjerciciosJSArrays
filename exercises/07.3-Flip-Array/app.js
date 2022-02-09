@@ -3,7 +3,7 @@ let newArray = []
 
 for (let i= arr.length-1; i>= 0;i-- ){
     let index = arr[i];
-        newArray.push(item);
+        newArray.push(index);
 }
 
 console.log(newArray)
