@@ -2,5 +2,5 @@ let mySampleArray = ['Esmeralda', 'Kiko', 'Ruth', 'Lebron', 'Pedro', 'Maria', 'L
 
 for (let i = mySampleArray.length - 1 ; i >= 0; i--)
 {
-    console.log(myaSampleArray[i])
+    console.log(mySampleArray[i])
 }

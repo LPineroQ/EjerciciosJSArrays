@@ -1,8 +1,10 @@
 function sumTheElements(theArray){
 	
-	var total = 0;
-	
-	//your code here
+	var suma = 0;
+    for (let i=0; i<=theArray.length-1; i++){
+        suma = suma + theArray[i]
+    }
 
-	return total;
+	return suma;
 }
+sumTheElements([2,13,34,5])
